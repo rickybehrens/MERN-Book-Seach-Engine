@@ -1,11 +1,11 @@
-# react-portafolio
-[![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-https://github.com/rickybehrens/react-portafolio
+# MERN-Book-Seach-Engine
+[![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br/>
+https://github.com/rickybehrens/MERN-Book-Seach-Engine <br/>
 https://enchanting-souffle-bf59b8.netlify.app/
 
 
 ## Project Description
-I aim to elevate my candidacy by crafting a cutting-edge portfolio showcasing my recently acquired proficiency in React, a contemporary technology. This strategic knowledge distinguishes me from other developers whose portfolios may not include the latest and most sought-after programming tools, technologies and laguages.
+This app is a fully functioning Google Books API search engine with a GraphQL API built with Apollo Server. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,7 +23,7 @@ npm i
 
   
 ## Usage
-The project involves the development of a comprehensive personal website serving as a dynamic portfolio, bio, and curriculum vitae, strategically designed to enhance my desirability as a candidate in the competitive field of software development. Leveraging my newly acquired React skills, the website stands as a testament to my commitment to staying at the forefront of contemporary technologies. Employers considering my candidacy can seamlessly navigate through a visually appealing and user-friendly interface, gaining insights into my diverse skill set, project experiences, and professional journey. By adopting the latest web development tools, the site not only showcases my technical proficiency but also positions me as a forward-thinking and adaptable developer, ready to contribute effectively to any innovative and technology-driven workplace.
+The project is a great book search engine that uses a Google Books API. The app lets the user search for books and once the user is logged in, it allows to save the desired book by clicking on the "save this book" button. The user can access their saved books with the link on the topand there, the user is allowed to delete the books he will no longer desire.
 
   
 ## License
@@ -41,7 +41,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   
     
 ## Contributing
-If you would like to contribute by have me design a front-end or both fron and back-end website, please reach out and I will gladly develope one for you and add it to my protfolio.
+If you would like to contribute to this project, please go to the #questions section and contact me directly.
 
   
 ## Questions
@@ -49,8 +49,12 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Screenshots
 <!-- Add screenshots here -->
-<img src="./public/1.png" alt="Screenshot 1">
-<img src="./public/2.png" alt="Screenshot 2">
-<img src="./public/3.png" alt="Screenshot 3">
-<img src="./public/4.png" alt="Screenshot 4">
-<img src="./public/5.png" alt="Screenshot 5">
+<img src="./client/public/01.png" alt="Screenshot 1">
+<img src="./client/public/02.png" alt="Screenshot 2">
+<img src="./client/public/03.png" alt="Screenshot 3">
+<img src="./client/public/04.png" alt="Screenshot 4">
+<img src="./client/public/05.png" alt="Screenshot 5">
+<img src="./client/public/06.png" alt="Screenshot 6">
+<img src="./client/public/07.png" alt="Screenshot 7">
+<img src="./client/public/08.png" alt="Screenshot 8">
+<img src="./client/public/09.png" alt="Screenshot 9">
